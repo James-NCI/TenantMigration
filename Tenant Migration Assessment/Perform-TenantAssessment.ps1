@@ -1,4 +1,5 @@
 <##Author: Sean McAvinue
+##Revision: James Scott
 ##Details: Graph / PowerShell Script to assess a Microsoft 365 tenant for migration of Exchange, Teams, SharePoint and OneDrive, 
 ##          Please fully read and test any scripts before running in your production environment!
         .SYNOPSIS
@@ -17,7 +18,7 @@
         Required - Thumbprint of the certificate generated from the prepare-tenantassessment.ps1 script    
 
         .Notes
-        For similar scripts check out the links below
+        For similar scripts check out the links below to Sean's website
         
             Blog: https://seanmcavinue.net
             GitHub: https://github.com/smcavinue
